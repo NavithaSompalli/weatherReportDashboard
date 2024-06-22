@@ -4,7 +4,7 @@ import { BarChart,Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveC
 import './index.css'
 
 const WeatherChart = ({ data }) => (
-  <ResponsiveContainer width="100%" height={400} className="line-chart" width={600}>
+  <ResponsiveContainer  height={400} className="line-chart" width={600}>
     <BarChart data={data}>
       <CartesianGrid strokeDasharray="3 3" />
       <XAxis dataKey="date" />
