@@ -1,0 +1,14 @@
+.input-element{
+    height:40px;
+    width:150px;
+    margin:20px;
+    font-family: "Roboto";
+    font-weight:bold;
+}
+
+.headline{
+    font-weight: bold;
+    margin-left:20px;
+    color:darkmagenta;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}

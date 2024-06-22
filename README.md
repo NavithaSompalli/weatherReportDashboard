@@ -68,3 +68,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Weather Dashboard
+
+This project is an interactive and visually appealing weather dashboard built with React. It fetches weather data from the OpenWeather API and displays it using charts and tables.
+
+## Features
+
+- Weather data visualization with line charts and bar charts and tables
+- City selector to view weather data for different cities
+- Responsive design for both desktop and mobile devices
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/NavithaSompalli/weatherReportDashboard.git
+   cd Dashboard-assign
+
+2. install dependencies 
+   npm install
+
+3. Add your OpenWeather API key: 
+   Api key = '78f1b9448d3227cc20ba6817f0a6a813' 
+
+4. Run the project 
+   npm start
+
+
+
+
